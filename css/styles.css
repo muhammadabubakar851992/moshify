@@ -524,6 +524,10 @@ a {
   padding: 3rem;
 }
 
+.testimonial__header {
+  text-align: center;
+}
+
 .testimonial__image {
   position: relative;
 }
@@ -629,6 +633,7 @@ a {
 
 .block__header {
   text-align: center;
+  margin-bottom: 4rem;
 }
 
 .block__heading {
